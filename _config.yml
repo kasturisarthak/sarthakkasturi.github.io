@@ -1,5 +1,31 @@
-title: Sarthak Kasturi
-#logo
-#description
-#show_downloads : true
+title: Sarthak Kasturi Portfolio
+email: sarthakkasturi@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the portfolio website of Sarthak Kasturi, showcasing my skills, projects, and experience as a data scientist.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+twitter_username: yourtwitter
+github_username: kasturisarthak
+linkedin_username: sarthakkasturi
+
+# Build settings
 theme: jekyll-theme-minimal
+
+# Navigation links
+nav_links:
+  - name: "About"
+    link: "/about"
+  - name: "Resume"
+    link: "/resume"
+
+# Social Links
+social_links:
+  - name: "GitHub"
+    url: "https://github.com/kasturisarthak"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/sarthakkasturi"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
