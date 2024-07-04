@@ -1,8 +1,7 @@
 # sarthakkasturi.github.io
 
 ### Education
-University of Bristol | Bristol, United Kingdom                                                                                  Expected: Sep 2025  
-Master of Science, Data Science 
+- MSc Data Science   | University of Bristol | Bristol, United Kingdom Expected: Sep 2025  
 
-Punjab Engineering College | Chandigarh, India                                                                                              Jun 2022 
-Bachelor of Engineering, Mechanical Engineering                                                                                
+- BTech Mechanical Engineering |Punjab Engineering College | Chandigarh, India   Jun 2022 
+                                                                              
