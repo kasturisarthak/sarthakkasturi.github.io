@@ -21,3 +21,27 @@
 - Compiled, organised, and modelled data enabling management to make informed decisions and improve project efficiency by 15%.
 - Analysed and mapped current business and operational processes recommending enhancements that cut operational delays by 10%.
                                                                               
+## Projects
+
+### Stock Forecasting Model
+- Used the YFinance library for retrieval of historical stock data.
+- Developed a predictor model using LSTM RNN for predicting future movement.
+- Designed a Streamlit web app and deployed it on an AWS EC2 instance.
+
+### Diversified Stock Portfolio Using Clustering Analysis
+- Designed a portfolio and back-tested its performance against historical data using K-means Clustering.
+- Developed a program using Pandas and NumPy to gather data points and plot them.
+- Outperformed the S&P500 index and the pool of stocks with the highest Sharpe Ratio.
+
+## Certifications
+- SQL- MySQL for Data Analytics and Business Intelligence
+- Data Analysis with Python
+- Machine Learning for Trading
+
+## Awards & Achievements
+- Certified Tableau Desktop Specialist, Tableau Salesforce (2024)
+- Specialization in Machine Learning, University of Washington Coursera (2020)
+- Certificate of Excellence, Punjab Engineering College Dramatics Club (2022)
+
+## Skills
+**Technical Skills**: Python, Tableau, SQL, MS Excel, Node.js, React
