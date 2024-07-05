@@ -16,3 +16,13 @@ nav_links:
     link: "/resume"
 
 # Social Links
+social_links:
+  - name: "GitHub"
+    url: "https://github.com/kasturisarthak"
+    icon: "/assets/img/github-mark-white.png"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/sarthakkasturi"
+    icon: "/assets/img/In-Blue-14.png"
+  - name: "Twitter"
+    url: "https://twitter.com/yourtwitter"
+    icon: "/assets/img/vecteezy_twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the_27395710.png"
